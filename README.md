@@ -1,5 +1,5 @@
 <h1 align="center">Josh Goard</h1>
-<h3 align="center">Real-time Embedded SW Engineer</h3>
+<h3 align="center">Real-Time Embedded SW Engineer</h3>
 
 - I’m currently working on [JOCKTOS](https://github.com/JGoard/JOCKTOS)
 
@@ -31,6 +31,9 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.windows.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="linux" width="40" height="40"/> </a> 
 
+<h3 align="left">Real-Time Operating Systems:</h3>
+<a href="https://blackberry.qnx.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/QNX_logo.svg" alt="qnx" width="40" height="40"/> </a> 
+<a href="https://www.freertos.org/" target="_blank" rel="noreferrer"> <img src="https://www.freertos.org/media/2023/logo.png" alt="freertos" width="40" height="40"/> </a> 
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
