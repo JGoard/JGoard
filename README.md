@@ -5,7 +5,7 @@
 
 - I’m currently learning **Scheduling Algorithms, Memory Management, and power-management**
 
-- Ask me about **Function Safety Standards, Latency/Jitter and Concurrency Management**
+- Ask me about **Functional Safety Standards, Latency/Jitter and Concurrency Management**
 
 - How to reach me **goardjosh@gmail.com**
 
